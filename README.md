@@ -13,7 +13,7 @@ AI & Data Science Enthusiast | CSE (Data Science) Student | Building Intelligent
 <p align="center">
 <a href="https://linkedin.com/in/rishiyadav7">LinkedIn</a> •
 <a href="https://github.com/rishiy7">GitHub</a> •
-<a href="mailto:rishiyadav.contact@gmail.com">Email</a>
+<a href="mailto:rishi.ry7@gmail.com">Email</a>
 </p>
 
 ---
@@ -122,21 +122,9 @@ Interactive EDA and prediction dashboard using Python and Streamlit.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rishiy7&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiy7&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
 ## 📫 Let's Connect
 
-📧 rishiyadav.contact@gmail.com
+📧 rishi.ry7@gmail.com
 
 💼 LinkedIn: https://linkedin.com/in/rishiyadav7
 
